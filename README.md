@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shootyourbricks
-- 👀 I’m interested in LEGO Stop Motion (I have a Youtube Channel), Web Programming, and Software Development in general.
+- 👀 Shoot Your Bricks started as a name for my LEGO Youtube Channel (shooting bricks with a camera), but my current interesting are Software Development and Video Editing.
 - 📫 How to reach me shootyourbricks@gmail.com
 
 <!---
