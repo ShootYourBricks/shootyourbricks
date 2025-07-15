@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shootyourbricks
-- 👀 Shoot Your Bricks started as a name for my LEGO Youtube Channel (shooting bricks with a camera), but my current interesting are Software Development and Video Editing.
+- 👀 Shoot Your Bricks started as a name for my LEGO Youtube Channel (shooting bricks with a camera), but my current interests are Software Development and Video Editing.
 - 📫 How to reach me shootyourbricks@gmail.com
 - 🌐 Check out my personal website https://shootyourbricks.netlify.app
 <!---
