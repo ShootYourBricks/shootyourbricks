@@ -1,3 +1,6 @@
+- This is not my primary GitHub acount!
+- Please see my developer GitHub account: https://github.com/luke-monroe
+- 
 - 👋 Hi, I’m @shootyourbricks
 - 👀 Shoot Your Bricks started as a name for my LEGO Youtube Channel (shooting bricks with a camera), but my current interests are Software Development and Video Editing.
 - 📫 How to reach me shootyourbricks@gmail.com
